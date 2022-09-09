@@ -1,0 +1,15 @@
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\bin\Debug\net6.0\Sem2task10.exe
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\bin\Debug\net6.0\Sem2task10.deps.json
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\bin\Debug\net6.0\Sem2task10.runtimeconfig.json
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\bin\Debug\net6.0\Sem2task10.dll
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\bin\Debug\net6.0\Sem2task10.pdb
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\Sem2task10.csproj.AssemblyReference.cache
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\Sem2task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\Sem2task10.AssemblyInfoInputs.cache
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\Sem2task10.AssemblyInfo.cs
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\Sem2task10.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\Sem2task10.dll
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\refint\Sem2task10.dll
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\Sem2task10.pdb
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\Sem2task10.genruntimeconfig.cache
+C:\Users\Юрий\Desktop\учеба разработчик python\#C\lesson1\SeminarProgramm\Sem2task10\obj\Debug\net6.0\ref\Sem2task10.dll
